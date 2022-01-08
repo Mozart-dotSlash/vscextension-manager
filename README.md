@@ -7,22 +7,22 @@
 
 ####
 
-we're creating a DevTools extension in vs code inorder to ease the workflow of a developer using vs code.
+We're creating a DevTools Extension in vs code in order to ease up the workflow of a developer using vs code.
 
 ####
 
 ## *Main functions*
 ### 1) Task Manager✅:
 ####      i) user can add task while being inside VS-Code
-####      ii) User can mark the task done using the command within VS-Code
+####      ii) User can mark the task done using a command within VS-Code
 ####      iii) User can edit the task using a command within VS-Code
 
 ####
 
 ### 2) Time Manager✅:
-####      i) User can get the data of how much time he/she spent developing a project
+####      i) User can get the data of how much time he/she has spent developing a project
 ####      ii) User can create __timer__ for _specific sessions_
-####      iii) User can get the __history__ of all specific sessions as a notification if requested.
+####      iii) User can get the __history__ of all specific sessions as a notification if requested
  
 ####
  
@@ -54,7 +54,10 @@ we're creating a DevTools extension in vs code inorder to ease the workflow of a
 ####
 
 ## Commands 🤖:
-#### will be updated soon
+#### 1) Task Manager ✅:
+####    a) To add➕ a task use "Add Task"
+####    b) To mark the task done✅ and remove from the list use "Mark Done"
+####    c) To edit📝 any task use "Edit Task"
 
 
 ## Contribute 🤝❓:
@@ -66,4 +69,4 @@ we're creating a DevTools extension in vs code inorder to ease the workflow of a
 
 ## About us 👤:
 ### Build by : Mohammad Ansah, Garvit Shah, Pratham Gandhi
-### This is project is build for HackDotSlash 5.0
+### This project is built for HackDotSlash 5.0
