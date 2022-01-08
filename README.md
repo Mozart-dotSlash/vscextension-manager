@@ -22,7 +22,7 @@ We're creating a DevTools Extension in vs code in order to ease up the workflow 
 ### 2) Time Manager✅:
 ####      i) User can get the data of how much time he/she has spent developing a project
 ####      ii) User can create __timer__ for _specific sessions_
-####      iii) User can get the __history__ of all specific sessions as a notification if requested
+####      iii) User can get the __history__ of all specific sessions if requested by user.
  
 ####
  
@@ -39,7 +39,7 @@ We're creating a DevTools Extension in vs code in order to ease up the workflow 
 
 ####
 
-### 5) Misc Functions 🎧:
+### 5) Misc Functions 🎧🚦:
 ####      i) User can listen music while being inside VS-Code with command ````Listen Music```` and selecting one from the given Genre, User will be directed to Spotify.com .
 ####      ii) User can Open stack overflow directly within the VS-Code itself with the command ````Open Stack Overflow```` .
   
@@ -54,11 +54,39 @@ We're creating a DevTools Extension in vs code in order to ease up the workflow 
 ####
 
 ## Commands 🤖:
-#### 1) Task Manager ✅:
-####    a) To add➕ a task use "Add Task"
-####    b) To mark the task done✅ and remove from the list use "Mark Done"
-####    c) To edit📝 any task use "Edit Task"
-
+####
+#### Press ````ctrl + shift + p```` or ````F1```` in order to open the command pallete to enter the command. 
+####
+### 1) Task Manager ✅:
+####    a) To add➕ a task use ````Add Task````
+####    b) To mark the task done✅ and remove from the list use ````Mark Done````
+####    c) To edit📝 any task use ````Edit Task````
+####
+### 2) Time Manager ⌚:
+####   a) Use the command ````Enable DevTools```` in order to Activate the extension
+####   b) To check total time you've spent on this project use the command ````Total time Spent````
+####   c) Session Timer
+####      i) To create a _custom session timer_ and record time for specific tasks, use command ````Start Session Timer````
+####      ii) To stop the  _custom session timer_ , use command ````End Session Timer````
+####           NOTE: The Session can be named(optional) and are auomatically saved in the history.
+####
+### 3) Developer Health Feature ⚕️:
+####   a) Eye-Care Reminder:
+####      i) Enable the feature by typing in the command ````Start Eye Care````
+####      ii) Select the freaquency of reminder
+####      iii) Finally confirm your reminder to start _eye-care_
+####   b) Movement Reminder:
+####      i) Enable the feature by typing in the command ````Movement Reminder````
+####      ii) Select the option ````Enable sit too long reminder````
+####      iii) Select the time intreval for for the reminder
+####
+### 4) <to be added soon> 
+####
+### 5) Misc Features:
+####  a) To Open the _Stack Overflow_ , use the command ````Open Stack Overflow```` 
+####  b) To listen the music use the command ````Listen Music```` and select the genre
+####  
+####
 
 ## Contribute 🤝❓:
 #### This repo will be open to open source contribution after **Jan-09-2022 17:30 IST**
