@@ -117,7 +117,9 @@ We're creating a DevTools Extension in vs code in order to ease up the workflow 
 ####      ii) Select the option ````Enable sit too long reminder````
 ####      iii) Select the time intreval for for the reminder
 ####
-### 4) <to be added soon> 
+### 4) Telegram Bot API
+####
+####     i) use the ````/start```` to start the bot
 ####
 ### 5) Misc Features:
 ####
