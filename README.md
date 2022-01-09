@@ -76,6 +76,9 @@ We're creating a DevTools Extension in vs code in order to ease up the workflow 
 ####    a) To add➕ a task use ````Add Task````
 ####    b) To mark the task done✅ and remove from the list use ````Mark Done````
 ####    c) To edit📝 any task use ````Edit Task````
+####    d) To connect to telegram bot ````Connect to Bot````
+####    e) To set the reminder for a task ````Reminder````
+####
 ####
 ### 2) Time Manager ⌚:
 ####   a) Use the command ````Enable DevTools```` in order to Activate the extension
