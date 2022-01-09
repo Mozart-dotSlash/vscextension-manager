@@ -1,14 +1,14 @@
 # MOZART DEVTOOLS EXTENSION👨‍💻
 
 ## The problem MOZART DEVTOOL solves -
-## - It helps manage user Tasks and schedule reminders on Telegram using Bot.
-## - It improves health and help users account for their tasks.
-## - Regular schedules imply better workflows.
-## - Regular schedule reminders.
-## - Add tasks and manage them inside the VS-Code itself
-## - Open Stack Overflow, Spotify within the VS-Code.
-## - Can get the summary of time spent as an SMS.
-## - Various health Boosters like Eye-care and Movement Reminders for immersive developers.
+#### - It helps manage user Tasks and schedule reminders on Telegram using Bot.
+#### - It improves health and help users account for their tasks.
+#### - Regular schedules imply better workflows.
+#### - Regular schedule reminders.
+#### - Add tasks and manage them inside the VS-Code itself
+#### - Open Stack Overflow, Spotify within the VS-Code.
+#### - Can get the summary of time spent as an SMS.
+#### - Various health Boosters like Eye-care and Movement Reminders for immersive developers.
 
 ####
 # ________________________________________________________________________
